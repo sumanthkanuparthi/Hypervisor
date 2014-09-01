@@ -1,0 +1,25 @@
+  r15  0x00000000
+  r14  0x00000000
+  r13  0x00000000
+  r12  0x00000000
+  r11  0x00000000
+  r10  0x00000023
+  r9  0x00000000
+  r8  0x00000000
+  rdi  0x00000000
+  rsi  0x00000000
+  rbp  0xef7fdc90
+  rbx  0xef7fdff7
+  rdx  0xef7fd968
+  rcx  0x00000001
+  rax  0x00000001
+  es   0x----0023
+  ds   0x----0023
+  trap 0x00000003 Breakpoint
+  err  0x00000000
+  rip  0x008007ba
+  cs   0x----001b
+  flag 0x00000206
+  rsp  0xef7fdb90
+  ss   0x----0023
+K> ß
